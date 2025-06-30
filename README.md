@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">Frontend Developer from Poland</h3>
 
-- 🔭 I’m currently working on **Militaria.pl | Military.pl | Military.eu**
-
-- 🌱 I’m currently learning **React, Next, Astro || Wordpress Woocommerce**
+- 🌱 I’m currently working **React, Next, Astro || Wordpress Woocommerce**
 
 - 📫 How to reach me **kontakt@paskomichal.pl**
 
